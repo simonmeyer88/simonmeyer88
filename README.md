@@ -12,8 +12,6 @@
 ### 📫 Want to connect?
 I'd love to meet you! Pick a time slot to chat about anything you're passionate about—just share the agenda, and let's make it a meaningful conversation. Looking forward to connecting! 😊
 
-<a href="https://calendly.com/cossack-soft909/30-meeting" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
-
 <img align="left" alt="GIF" src="techstack.gif" width="260px">
 
 ### &nbsp; 🛠️ Technical Skills

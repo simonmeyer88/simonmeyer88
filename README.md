@@ -219,10 +219,6 @@ I'd love to meet you! Pick a time slot to chat about anything you're passionate 
 <br/><br/><br/><br/><br/><br/> -->
 
 <p align="center">
-<a href="https://github.com/Cossackdev777?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=Cossackdev777&theme=onestar&no-frame=true&column=3&row=2"  width="50%" height="50%" alt="@Goblin's trophy stats"/></a>
-</p>
-
-<p align="center">
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
 </p>
 <div align="center">
